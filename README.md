@@ -1,7 +1,5 @@
 ### Meu nome é Mariana Machado e meu apelido é: Melty 🎧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mariana-machado-a-09b069186/)
-
 
 ## Tecnologias para desenvolvimento Web:
  <div style="display: inline_block"><br/>
