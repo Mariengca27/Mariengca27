@@ -1,7 +1,7 @@
-### Meu nome é Mariana Machado e meu apelido é: Melty 🎧
+### My name is Mariana and my nickname is: Melty 🎧
 
 
-## Tecnologias para desenvolvimento Web:
+## Technologies in Web Development that I have acquired expertise in:
  <div style="display: inline_block"><br/>
 
  <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,11 +29,11 @@
  </div>
 
 
-## Tecnologias para Testes:
+## Technologies to Tests:
 ##Cypress
-, Coypu Automação com C#
-, Selenium WebDriver com Java
-, Playwright com a linguagem C# + SpecFlow(BDD)
+, Coypu Automation with C#
+, Selenium WebDriver with Java
+, Playwright with C# + SpecFlow(BDD)
 
 <img align="center" alt ="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
  </div>
@@ -41,4 +41,4 @@
  <img align="center" alt ="TestLibrary" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
  </div><br/>
  
- Tecnologia bem aplicada pode criar soluções e transformar sonhos, experimente😉
+ Well-applied technology can create solutions and transform dreams, give it a try😉
