@@ -1,7 +1,11 @@
+# Olá, World! 💻
+
 ### My name is Mariana and my nickname is: Melty 🎧
 
 
-## Technologies in Web Development that I have acquired expertise in:
+
+
+## Technologies in Web Development that I have acquired some expertise in:
  <div style="display: inline_block"><br/>
 
  <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,7 +20,7 @@
  <img align="center" alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  </div>
 
- <img align="center" alt ="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whitee"/>
+ <img align="center" alt ="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  </div>
 
  <img align="center" alt ="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -39,6 +43,19 @@
  </div>
 
  <img align="center" alt ="TestLibrary" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
- </div><br/>
+ </div>
+
+
+
+## ⚡ GitHub Stats
+
+<details>
+  <summary>:zap:Click here to see</summary>
+
+  <img align="center" alt="Estatísticas do GitHub de Mariengca27" src="https://github-readme-stats.vercel.app/api?username=Mariengca27&show_icons=true&theme=dark&hide_border=true" /><br/>
+
+</details>
+
  
- Well-applied technology can create solutions and transform dreams, give it a try😉
+ 
+</br> Well-applied technology can create solutions and transform dreams, give it a try😉
