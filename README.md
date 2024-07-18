@@ -24,6 +24,8 @@ Testes unitários:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   <img align="center" alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
+  XUnit;
+  Junit;
 </div><br/>
 
 ## ⚡ GitHub Stats
