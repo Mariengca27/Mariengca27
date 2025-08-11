@@ -22,3 +22,4 @@
 - Testes de Carga - K6(TypeScript).
 - Testes de API - Playwright, cucumber, Node.js(TypeScript).
 - Testes E2E - Playwright, cucumber, Node.js(TypeScript). 
+- Atualmente desenvolvendo automações em N8N.
