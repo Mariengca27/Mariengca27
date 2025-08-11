@@ -28,12 +28,3 @@ Testes unitários:
   Junit;
 </div><br/>
 
-## ⚡ GitHub Stats
-<details>
-  <summary>:zap: Clique aqui para ver</summary>
-  <img align="center" alt="Estatísticas do GitHub de Mariengca27" src="https://github-readme-stats.vercel.app/api?username=Mariengca27&show_icons=true&theme=dark&hide_border=true" /><br/>
-</details>
-
-<br/>
-
-Well-applied technology can create solutions and transform dreams, give it a try 😉
