@@ -1,6 +1,6 @@
 # Olá, World! 💻
 
-### Meu nome é Mariana, mas pode me chamar de Melty 🎧
+### Meu nome é Marcus, mas pode me chamar de Melty 🎧
 
 ## Tecnologias em Desenvolvimento Web nas quais tenho experiência:
 <div style="display: inline_block"><br/>
